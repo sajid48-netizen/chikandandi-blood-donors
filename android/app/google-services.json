@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23501538710",
+    "project_id": "chikandandi-blood-donors-48",
+    "storage_bucket": "chikandandi-blood-donors-48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23501538710:android:5b2c25e4dfd8db944fc9b7",
+        "android_client_info": {
+          "package_name": "com.example.chikandandi_blood_donors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7_9Vd-66QKky4BeIegFOm8OCguLuZC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

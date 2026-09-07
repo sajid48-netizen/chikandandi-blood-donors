@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "chikandandi-blood-donors-48",
+          "appId": "1:23501538710:android:5b2c25e4dfd8db944fc9b7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      }
+    },
+    "dart": {
+      "lib/firebase_options.dart": {
+        "projectId": "chikandandi-blood-donors-48",
+        "configurations": {
+          "android": "1:23501538710:android:5b2c25e4dfd8db944fc9b7",
+          "ios": "1:23501538710:ios:6b74efdb329028524fc9b7",
+          "macos": "1:23501538710:ios:6b74efdb329028524fc9b7",
+          "web": "1:23501538710:web:c8ad593b105c2d0f4fc9b7",
+          "windows": "1:23501538710:web:80c7ba1377cd655a4fc9b7"
+        }
+      }
+    }
+  }
+}
